@@ -1,1 +1,2 @@
-# DBMS_Notes_001
+- [Create user - MySQL](https://stackoverflow.com/questions/1720244/create-new-user-in-mysql-and-give-it-full-access-to-one-database)
+- [Delete user - MySQL](https://tecadmin.net/delete-mysql-account/)
