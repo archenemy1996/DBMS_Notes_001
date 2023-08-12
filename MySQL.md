@@ -1,0 +1,5 @@
+- CREATE USER 'new_user'@'localhost' IDENTIFIED BY 'new_password';
+- CREATE USER 'test'@'%' IDENTIFIED BY '1234';
+- GRANT ALL ON my_db.* TO 'new_user'@'localhost';
+- GRANT ALL ON test.* TO 'test'@'%';
+- FLUSH PRIVILEGES;
